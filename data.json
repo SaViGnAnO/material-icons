@@ -1,5 +1,5 @@
 {
-    "root": "https://material-icons.github.io/material-icons/svg/",
+    "root": "https://raw.githubusercontent.com/SaViGnAnO/material-icons/master/svg/",
     "asset_url_pattern": "{icon}/{family}.svg",
     "icons": [
         {
