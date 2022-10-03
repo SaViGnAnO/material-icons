@@ -27715,6 +27715,23 @@
             ]
         },
         {
+            "name": "mop",
+            "version": 1,
+            "unsupported_families": [
+                "sharp",
+                "round",
+                "twotone",
+                "baseline"
+            ],
+            "categories": [
+                "household"
+            ],
+            "tags": [
+                "cleaning",
+                "mop"
+            ]
+        },
+        {
             "name": "moped",
             "version": 14,
             "categories": [
